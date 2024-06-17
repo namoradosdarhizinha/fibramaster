@@ -1,5 +1,15 @@
+body{
+    background-color: #07645E;
+}
+
 .fibramaster{
     width: 100%;
+    border-radius: 50px;
 }
 
 
+@media screen and (min-width: 1024px){
+    .fibramaster{
+        width: 100%;
+    }
+}
