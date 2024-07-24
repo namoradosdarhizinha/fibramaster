@@ -21,6 +21,10 @@ body{
     justify-items: center;
 }
 
+section{
+    margin: 0 30%;
+    text-align: center;
+}
 @media screen and (min-width: 1024px){
     .fibramaster{
         width: 36%;
